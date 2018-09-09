@@ -1,0 +1,625 @@
+Intersection,Hourly_Average,Time,Eastbound,Westbound,Northbound,Southbound,Total
+32 Avenue East of 192 Street,Monday-Friday,12:00 AM,37,22,,,59
+32 Avenue East of 192 Street,Monday-Friday,1:00 AM,25,9,,,34
+32 Avenue East of 192 Street,Monday-Friday,2:00 AM,12,9,,,21
+32 Avenue East of 192 Street,Monday-Friday,3:00 AM,8,16,,,24
+32 Avenue East of 192 Street,Monday-Friday,4:00 AM,13,65,,,78
+32 Avenue East of 192 Street,Monday-Friday,5:00 AM,38,299,,,337
+32 Avenue East of 192 Street,Monday-Friday,6:00 AM,109,568,,,677
+32 Avenue East of 192 Street,Monday-Friday,7:00 AM,237,573,,,810
+32 Avenue East of 192 Street,Monday-Friday,8:00 AM,315,450,,,765
+32 Avenue East of 192 Street,Monday-Friday,9:00 AM,274,309,,,583
+32 Avenue East of 192 Street,Monday-Friday,10:00 AM,274,247,,,521
+32 Avenue East of 192 Street,Monday-Friday,11:00 AM,301,255,,,556
+32 Avenue East of 192 Street,Monday-Friday,12:00 PM,325,274,,,599
+32 Avenue East of 192 Street,Monday-Friday,1:00 PM,354,263,,,617
+32 Avenue East of 192 Street,Monday-Friday,2:00 PM,445,286,,,731
+32 Avenue East of 192 Street,Monday-Friday,3:00 PM,591,327,,,918
+32 Avenue East of 192 Street,Monday-Friday,4:00 PM,692,319,,,1011
+32 Avenue East of 192 Street,Monday-Friday,5:00 PM,620,276,,,896
+32 Avenue East of 192 Street,Monday-Friday,6:00 PM,399,200,,,599
+32 Avenue East of 192 Street,Monday-Friday,7:00 PM,244,142,,,386
+32 Avenue East of 192 Street,Monday-Friday,8:00 PM,199,130,,,329
+32 Avenue East of 192 Street,Monday-Friday,9:00 PM,169,108,,,277
+32 Avenue East of 192 Street,Monday-Friday,10:00 PM,125,69,,,194
+32 Avenue East of 192 Street,Monday-Friday,11:00 PM,75,41,,,116
+32 Avenue East of 192 Street,Saturday-Sunday,12:00 AM,38,23,,,61
+32 Avenue East of 192 Street,Saturday-Sunday,1:00 AM,23,14,,,37
+32 Avenue East of 192 Street,Saturday-Sunday,2:00 AM,13,10,,,23
+32 Avenue East of 192 Street,Saturday-Sunday,3:00 AM,9,10,,,19
+32 Avenue East of 192 Street,Saturday-Sunday,4:00 AM,6,17,,,23
+32 Avenue East of 192 Street,Saturday-Sunday,5:00 AM,13,45,,,58
+32 Avenue East of 192 Street,Saturday-Sunday,6:00 AM,35,62,,,97
+32 Avenue East of 192 Street,Saturday-Sunday,7:00 AM,60,87,,,147
+32 Avenue East of 192 Street,Saturday-Sunday,8:00 AM,94,136,,,230
+32 Avenue East of 192 Street,Saturday-Sunday,9:00 AM,130,162,,,292
+32 Avenue East of 192 Street,Saturday-Sunday,10:00 AM,175,188,,,363
+32 Avenue East of 192 Street,Saturday-Sunday,11:00 AM,214,184,,,398
+32 Avenue East of 192 Street,Saturday-Sunday,12:00 PM,221,192,,,413
+32 Avenue East of 192 Street,Saturday-Sunday,1:00 PM,241,206,,,447
+32 Avenue East of 192 Street,Saturday-Sunday,2:00 PM,222,191,,,413
+32 Avenue East of 192 Street,Saturday-Sunday,3:00 PM,231,200,,,431
+32 Avenue East of 192 Street,Saturday-Sunday,4:00 PM,230,181,,,411
+32 Avenue East of 192 Street,Saturday-Sunday,5:00 PM,215,170,,,385
+32 Avenue East of 192 Street,Saturday-Sunday,6:00 PM,165,126,,,291
+32 Avenue East of 192 Street,Saturday-Sunday,7:00 PM,146,101,,,247
+32 Avenue East of 192 Street,Saturday-Sunday,8:00 PM,124,95,,,219
+32 Avenue East of 192 Street,Saturday-Sunday,9:00 PM,101,81,,,182
+32 Avenue East of 192 Street,Saturday-Sunday,10:00 PM,90,54,,,144
+32 Avenue East of 192 Street,Saturday-Sunday,11:00 PM,55,33,,,88
+72 Avenue West of 123 Street,Monday-Friday,12:00 AM,147,54,,,201
+72 Avenue West of 123 Street,Monday-Friday,1:00 AM,88,45,,,133
+72 Avenue West of 123 Street,Monday-Friday,2:00 AM,63,71,,,134
+72 Avenue West of 123 Street,Monday-Friday,3:00 AM,75,127,,,202
+72 Avenue West of 123 Street,Monday-Friday,4:00 AM,108,405,,,513
+72 Avenue West of 123 Street,Monday-Friday,5:00 AM,251,714,,,965
+72 Avenue West of 123 Street,Monday-Friday,6:00 AM,414,673,,,1087
+72 Avenue West of 123 Street,Monday-Friday,7:00 AM,678,775,,,1453
+72 Avenue West of 123 Street,Monday-Friday,8:00 AM,660,825,,,1485
+72 Avenue West of 123 Street,Monday-Friday,9:00 AM,697,835,,,1532
+72 Avenue West of 123 Street,Monday-Friday,10:00 AM,819,914,,,1733
+72 Avenue West of 123 Street,Monday-Friday,11:00 AM,934,1001,,,1935
+72 Avenue West of 123 Street,Monday-Friday,12:00 PM,1003,977,,,1980
+72 Avenue West of 123 Street,Monday-Friday,1:00 PM,1065,995,,,2060
+72 Avenue West of 123 Street,Monday-Friday,2:00 PM,1098,1074,,,2172
+72 Avenue West of 123 Street,Monday-Friday,3:00 PM,1186,1104,,,2290
+72 Avenue West of 123 Street,Monday-Friday,4:00 PM,1176,1056,,,2232
+72 Avenue West of 123 Street,Monday-Friday,5:00 PM,1157,1000,,,2157
+72 Avenue West of 123 Street,Monday-Friday,6:00 PM,1025,906,,,1931
+72 Avenue West of 123 Street,Monday-Friday,7:00 PM,791,647,,,1438
+72 Avenue West of 123 Street,Monday-Friday,8:00 PM,725,542,,,1267
+72 Avenue West of 123 Street,Monday-Friday,9:00 PM,567,462,,,1029
+72 Avenue West of 123 Street,Monday-Friday,10:00 PM,374,238,,,612
+72 Avenue West of 123 Street,Monday-Friday,11:00 PM,270,115,,,385
+72 Avenue West of 123 Street,Saturday-Sunday,12:00 AM,239,108,,,347
+72 Avenue West of 123 Street,Saturday-Sunday,1:00 AM,115,74,,,189
+72 Avenue West of 123 Street,Saturday-Sunday,2:00 AM,78,84,,,162
+72 Avenue West of 123 Street,Saturday-Sunday,3:00 AM,100,87,,,187
+72 Avenue West of 123 Street,Saturday-Sunday,4:00 AM,94,133,,,227
+72 Avenue West of 123 Street,Saturday-Sunday,5:00 AM,116,236,,,352
+72 Avenue West of 123 Street,Saturday-Sunday,6:00 AM,185,260,,,445
+72 Avenue West of 123 Street,Saturday-Sunday,7:00 AM,269,388,,,657
+72 Avenue West of 123 Street,Saturday-Sunday,8:00 AM,419,572,,,991
+72 Avenue West of 123 Street,Saturday-Sunday,9:00 AM,605,767,,,1372
+72 Avenue West of 123 Street,Saturday-Sunday,10:00 AM,735,888,,,1623
+72 Avenue West of 123 Street,Saturday-Sunday,11:00 AM,830,937,,,1767
+72 Avenue West of 123 Street,Saturday-Sunday,12:00 PM,940,948,,,1888
+72 Avenue West of 123 Street,Saturday-Sunday,1:00 PM,969,1006,,,1975
+72 Avenue West of 123 Street,Saturday-Sunday,2:00 PM,1025,1004,,,2029
+72 Avenue West of 123 Street,Saturday-Sunday,3:00 PM,995,930,,,1925
+72 Avenue West of 123 Street,Saturday-Sunday,4:00 PM,941,851,,,1792
+72 Avenue West of 123 Street,Saturday-Sunday,5:00 PM,902,848,,,1750
+72 Avenue West of 123 Street,Saturday-Sunday,6:00 PM,752,733,,,1485
+72 Avenue West of 123 Street,Saturday-Sunday,7:00 PM,621,534,,,1155
+72 Avenue West of 123 Street,Saturday-Sunday,8:00 PM,615,508,,,1123
+72 Avenue West of 123 Street,Saturday-Sunday,9:00 PM,524,441,,,965
+72 Avenue West of 123 Street,Saturday-Sunday,10:00 PM,356,259,,,615
+72 Avenue West of 123 Street,Saturday-Sunday,11:00 PM,284,147,,,431
+88 Avenue West of 123 Street,Monday-Friday,12:00 AM,176,79,,,255
+88 Avenue West of 123 Street,Monday-Friday,1:00 AM,113,46,,,159
+88 Avenue West of 123 Street,Monday-Friday,2:00 AM,77,50,,,127
+88 Avenue West of 123 Street,Monday-Friday,3:00 AM,56,85,,,141
+88 Avenue West of 123 Street,Monday-Friday,4:00 AM,80,203,,,283
+88 Avenue West of 123 Street,Monday-Friday,5:00 AM,176,770,,,946
+88 Avenue West of 123 Street,Monday-Friday,6:00 AM,444,861,,,1305
+88 Avenue West of 123 Street,Monday-Friday,7:00 AM,635,765,,,1400
+88 Avenue West of 123 Street,Monday-Friday,8:00 AM,665,750,,,1415
+88 Avenue West of 123 Street,Monday-Friday,9:00 AM,561,735,,,1296
+88 Avenue West of 123 Street,Monday-Friday,10:00 AM,589,707,,,1296
+88 Avenue West of 123 Street,Monday-Friday,11:00 AM,699,743,,,1442
+88 Avenue West of 123 Street,Monday-Friday,12:00 PM,749,779,,,1528
+88 Avenue West of 123 Street,Monday-Friday,1:00 PM,778,778,,,1556
+88 Avenue West of 123 Street,Monday-Friday,2:00 PM,854,813,,,1667
+88 Avenue West of 123 Street,Monday-Friday,3:00 PM,902,841,,,1743
+88 Avenue West of 123 Street,Monday-Friday,4:00 PM,949,887,,,1836
+88 Avenue West of 123 Street,Monday-Friday,5:00 PM,1043,904,,,1947
+88 Avenue West of 123 Street,Monday-Friday,6:00 PM,938,810,,,1748
+88 Avenue West of 123 Street,Monday-Friday,7:00 PM,806,663,,,1469
+88 Avenue West of 123 Street,Monday-Friday,8:00 PM,630,501,,,1131
+88 Avenue West of 123 Street,Monday-Friday,9:00 PM,545,480,,,1025
+88 Avenue West of 123 Street,Monday-Friday,10:00 PM,459,363,,,822
+88 Avenue West of 123 Street,Monday-Friday,11:00 PM,351,203,,,554
+88 Avenue West of 123 Street,Saturday-Sunday,12:00 AM,226,148,,,374
+88 Avenue West of 123 Street,Saturday-Sunday,1:00 AM,142,83,,,225
+88 Avenue West of 123 Street,Saturday-Sunday,2:00 AM,104,60,,,164
+88 Avenue West of 123 Street,Saturday-Sunday,3:00 AM,75,72,,,147
+88 Avenue West of 123 Street,Saturday-Sunday,4:00 AM,84,87,,,171
+88 Avenue West of 123 Street,Saturday-Sunday,5:00 AM,96,185,,,281
+88 Avenue West of 123 Street,Saturday-Sunday,6:00 AM,177,242,,,419
+88 Avenue West of 123 Street,Saturday-Sunday,7:00 AM,232,335,,,567
+88 Avenue West of 123 Street,Saturday-Sunday,8:00 AM,342,441,,,783
+88 Avenue West of 123 Street,Saturday-Sunday,9:00 AM,477,580,,,1057
+88 Avenue West of 123 Street,Saturday-Sunday,10:00 AM,565,667,,,1232
+88 Avenue West of 123 Street,Saturday-Sunday,11:00 AM,685,686,,,1371
+88 Avenue West of 123 Street,Saturday-Sunday,12:00 PM,771,742,,,1513
+88 Avenue West of 123 Street,Saturday-Sunday,1:00 PM,794,852,,,1646
+88 Avenue West of 123 Street,Saturday-Sunday,2:00 PM,837,816,,,1653
+88 Avenue West of 123 Street,Saturday-Sunday,3:00 PM,811,804,,,1615
+88 Avenue West of 123 Street,Saturday-Sunday,4:00 PM,788,741,,,1529
+88 Avenue West of 123 Street,Saturday-Sunday,5:00 PM,793,737,,,1530
+88 Avenue West of 123 Street,Saturday-Sunday,6:00 PM,724,648,,,1372
+88 Avenue West of 123 Street,Saturday-Sunday,7:00 PM,615,590,,,1205
+88 Avenue West of 123 Street,Saturday-Sunday,8:00 PM,510,468,,,978
+88 Avenue West of 123 Street,Saturday-Sunday,9:00 PM,452,430,,,882
+88 Avenue West of 123 Street,Saturday-Sunday,10:00 PM,374,370,,,744
+88 Avenue West of 123 Street,Saturday-Sunday,11:00 PM,273,213,,,486
+96 Avenue East of 130 Street,Monday-Friday,12:00 AM,100,86,,,186
+96 Avenue East of 130 Street,Monday-Friday,1:00 AM,61,58,,,119
+96 Avenue East of 130 Street,Monday-Friday,2:00 AM,42,45,,,87
+96 Avenue East of 130 Street,Monday-Friday,3:00 AM,44,51,,,95
+96 Avenue East of 130 Street,Monday-Friday,4:00 AM,104,161,,,265
+96 Avenue East of 130 Street,Monday-Friday,5:00 AM,263,493,,,756
+96 Avenue East of 130 Street,Monday-Friday,6:00 AM,609,621,,,1230
+96 Avenue East of 130 Street,Monday-Friday,7:00 AM,766,783,,,1549
+96 Avenue East of 130 Street,Monday-Friday,8:00 AM,725,831,,,1556
+96 Avenue East of 130 Street,Monday-Friday,9:00 AM,615,633,,,1248
+96 Avenue East of 130 Street,Monday-Friday,10:00 AM,615,650,,,1265
+96 Avenue East of 130 Street,Monday-Friday,11:00 AM,700,734,,,1434
+96 Avenue East of 130 Street,Monday-Friday,12:00 PM,762,726,,,1488
+96 Avenue East of 130 Street,Monday-Friday,1:00 PM,794,786,,,1580
+96 Avenue East of 130 Street,Monday-Friday,2:00 PM,926,942,,,1868
+96 Avenue East of 130 Street,Monday-Friday,3:00 PM,1053,1022,,,2075
+96 Avenue East of 130 Street,Monday-Friday,4:00 PM,1087,1085,,,2172
+96 Avenue East of 130 Street,Monday-Friday,5:00 PM,1026,931,,,1957
+96 Avenue East of 130 Street,Monday-Friday,6:00 PM,879,768,,,1647
+96 Avenue East of 130 Street,Monday-Friday,7:00 PM,629,650,,,1279
+96 Avenue East of 130 Street,Monday-Friday,8:00 PM,494,552,,,1046
+96 Avenue East of 130 Street,Monday-Friday,9:00 PM,420,465,,,885
+96 Avenue East of 130 Street,Monday-Friday,10:00 PM,307,328,,,635
+96 Avenue East of 130 Street,Monday-Friday,11:00 PM,195,210,,,405
+96 Avenue East of 130 Street,Saturday-Sunday,12:00 AM,173,166,,,339
+96 Avenue East of 130 Street,Saturday-Sunday,1:00 AM,122,120,,,242
+96 Avenue East of 130 Street,Saturday-Sunday,2:00 AM,91,84,,,175
+96 Avenue East of 130 Street,Saturday-Sunday,3:00 AM,67,57,,,124
+96 Avenue East of 130 Street,Saturday-Sunday,4:00 AM,71,67,,,138
+96 Avenue East of 130 Street,Saturday-Sunday,5:00 AM,100,113,,,213
+96 Avenue East of 130 Street,Saturday-Sunday,6:00 AM,208,166,,,374
+96 Avenue East of 130 Street,Saturday-Sunday,7:00 AM,253,230,,,483
+96 Avenue East of 130 Street,Saturday-Sunday,8:00 AM,383,337,,,720
+96 Avenue East of 130 Street,Saturday-Sunday,9:00 AM,510,503,,,1013
+96 Avenue East of 130 Street,Saturday-Sunday,10:00 AM,602,559,,,1161
+96 Avenue East of 130 Street,Saturday-Sunday,11:00 AM,664,649,,,1313
+96 Avenue East of 130 Street,Saturday-Sunday,12:00 PM,742,735,,,1477
+96 Avenue East of 130 Street,Saturday-Sunday,1:00 PM,738,752,,,1490
+96 Avenue East of 130 Street,Saturday-Sunday,2:00 PM,773,743,,,1516
+96 Avenue East of 130 Street,Saturday-Sunday,3:00 PM,759,767,,,1526
+96 Avenue East of 130 Street,Saturday-Sunday,4:00 PM,734,760,,,1494
+96 Avenue East of 130 Street,Saturday-Sunday,5:00 PM,663,732,,,1395
+96 Avenue East of 130 Street,Saturday-Sunday,6:00 PM,596,675,,,1271
+96 Avenue East of 130 Street,Saturday-Sunday,7:00 PM,491,548,,,1039
+96 Avenue East of 130 Street,Saturday-Sunday,8:00 PM,419,463,,,882
+96 Avenue East of 130 Street,Saturday-Sunday,9:00 PM,381,392,,,773
+96 Avenue East of 130 Street,Saturday-Sunday,10:00 PM,314,311,,,625
+96 Avenue East of 130 Street,Saturday-Sunday,11:00 PM,206,209,,,415
+104 Avenue East of 157 Street,Monday-Friday,12:00 AM,89,87,,,176
+104 Avenue East of 157 Street,Monday-Friday,1:00 AM,51,51,,,102
+104 Avenue East of 157 Street,Monday-Friday,2:00 AM,32,34,,,66
+104 Avenue East of 157 Street,Monday-Friday,3:00 AM,37,28,,,65
+104 Avenue East of 157 Street,Monday-Friday,4:00 AM,77,68,,,145
+104 Avenue East of 157 Street,Monday-Friday,5:00 AM,259,211,,,470
+104 Avenue East of 157 Street,Monday-Friday,6:00 AM,500,394,,,894
+104 Avenue East of 157 Street,Monday-Friday,7:00 AM,636,700,,,1336
+104 Avenue East of 157 Street,Monday-Friday,8:00 AM,630,835,,,1465
+104 Avenue East of 157 Street,Monday-Friday,9:00 AM,529,594,,,1123
+104 Avenue East of 157 Street,Monday-Friday,10:00 AM,561,539,,,1100
+104 Avenue East of 157 Street,Monday-Friday,11:00 AM,640,562,,,1202
+104 Avenue East of 157 Street,Monday-Friday,12:00 PM,681,565,,,1246
+104 Avenue East of 157 Street,Monday-Friday,1:00 PM,724,549,,,1273
+104 Avenue East of 157 Street,Monday-Friday,2:00 PM,903,653,,,1556
+104 Avenue East of 157 Street,Monday-Friday,3:00 PM,937,791,,,1728
+104 Avenue East of 157 Street,Monday-Friday,4:00 PM,1067,789,,,1856
+104 Avenue East of 157 Street,Monday-Friday,5:00 PM,1016,716,,,1732
+104 Avenue East of 157 Street,Monday-Friday,6:00 PM,750,567,,,1317
+104 Avenue East of 157 Street,Monday-Friday,7:00 PM,558,440,,,998
+104 Avenue East of 157 Street,Monday-Friday,8:00 PM,469,359,,,828
+104 Avenue East of 157 Street,Monday-Friday,9:00 PM,432,352,,,784
+104 Avenue East of 157 Street,Monday-Friday,10:00 PM,337,265,,,602
+104 Avenue East of 157 Street,Monday-Friday,11:00 PM,199,178,,,377
+104 Avenue East of 157 Street,Saturday-Sunday,12:00 AM,151,128,,,279
+104 Avenue East of 157 Street,Saturday-Sunday,1:00 AM,101,78,,,179
+104 Avenue East of 157 Street,Saturday-Sunday,2:00 AM,62,49,,,111
+104 Avenue East of 157 Street,Saturday-Sunday,3:00 AM,41,33,,,74
+104 Avenue East of 157 Street,Saturday-Sunday,4:00 AM,51,32,,,83
+104 Avenue East of 157 Street,Saturday-Sunday,5:00 AM,95,60,,,155
+104 Avenue East of 157 Street,Saturday-Sunday,6:00 AM,150,94,,,244
+104 Avenue East of 157 Street,Saturday-Sunday,7:00 AM,249,193,,,442
+104 Avenue East of 157 Street,Saturday-Sunday,8:00 AM,354,316,,,670
+104 Avenue East of 157 Street,Saturday-Sunday,9:00 AM,484,483,,,967
+104 Avenue East of 157 Street,Saturday-Sunday,10:00 AM,566,491,,,1057
+104 Avenue East of 157 Street,Saturday-Sunday,11:00 AM,641,571,,,1212
+104 Avenue East of 157 Street,Saturday-Sunday,12:00 PM,708,613,,,1321
+104 Avenue East of 157 Street,Saturday-Sunday,1:00 PM,701,604,,,1305
+104 Avenue East of 157 Street,Saturday-Sunday,2:00 PM,701,563,,,1264
+104 Avenue East of 157 Street,Saturday-Sunday,3:00 PM,680,562,,,1242
+104 Avenue East of 157 Street,Saturday-Sunday,4:00 PM,690,563,,,1253
+104 Avenue East of 157 Street,Saturday-Sunday,5:00 PM,641,548,,,1189
+104 Avenue East of 157 Street,Saturday-Sunday,6:00 PM,574,477,,,1051
+104 Avenue East of 157 Street,Saturday-Sunday,7:00 PM,442,382,,,824
+104 Avenue East of 157 Street,Saturday-Sunday,8:00 PM,375,350,,,725
+104 Avenue East of 157 Street,Saturday-Sunday,9:00 PM,339,305,,,644
+104 Avenue East of 157 Street,Saturday-Sunday,10:00 PM,271,266,,,537
+104 Avenue East of 157 Street,Saturday-Sunday,11:00 PM,185,162,,,347
+152 Street South of 24 Avenue,Monday-Friday,12:00 AM,,,40,48,88
+152 Street South of 24 Avenue,Monday-Friday,1:00 AM,,,28,28,56
+152 Street South of 24 Avenue,Monday-Friday,2:00 AM,,,24,22,46
+152 Street South of 24 Avenue,Monday-Friday,3:00 AM,,,34,22,56
+152 Street South of 24 Avenue,Monday-Friday,4:00 AM,,,104,49,153
+152 Street South of 24 Avenue,Monday-Friday,5:00 AM,,,280,166,446
+152 Street South of 24 Avenue,Monday-Friday,6:00 AM,,,492,404,896
+152 Street South of 24 Avenue,Monday-Friday,7:00 AM,,,753,842,1595
+152 Street South of 24 Avenue,Monday-Friday,8:00 AM,,,715,887,1602
+152 Street South of 24 Avenue,Monday-Friday,9:00 AM,,,788,873,1661
+152 Street South of 24 Avenue,Monday-Friday,10:00 AM,,,880,904,1784
+152 Street South of 24 Avenue,Monday-Friday,11:00 AM,,,896,935,1831
+152 Street South of 24 Avenue,Monday-Friday,12:00 PM,,,882,969,1851
+152 Street South of 24 Avenue,Monday-Friday,1:00 PM,,,953,1019,1972
+152 Street South of 24 Avenue,Monday-Friday,2:00 PM,,,1029,1173,2202
+152 Street South of 24 Avenue,Monday-Friday,3:00 PM,,,943,1144,2087
+152 Street South of 24 Avenue,Monday-Friday,4:00 PM,,,921,1052,1973
+152 Street South of 24 Avenue,Monday-Friday,5:00 PM,,,762,922,1684
+152 Street South of 24 Avenue,Monday-Friday,6:00 PM,,,573,701,1274
+152 Street South of 24 Avenue,Monday-Friday,7:00 PM,,,522,525,1047
+152 Street South of 24 Avenue,Monday-Friday,8:00 PM,,,428,399,827
+152 Street South of 24 Avenue,Monday-Friday,9:00 PM,,,289,283,572
+152 Street South of 24 Avenue,Monday-Friday,10:00 PM,,,170,183,353
+152 Street South of 24 Avenue,Monday-Friday,11:00 PM,,,89,91,180
+152 Street South of 24 Avenue,Saturday-Sunday,12:00 AM,,,84,83,167
+152 Street South of 24 Avenue,Saturday-Sunday,1:00 AM,,,51,48,99
+152 Street South of 24 Avenue,Saturday-Sunday,2:00 AM,,,35,33,68
+152 Street South of 24 Avenue,Saturday-Sunday,3:00 AM,,,30,30,60
+152 Street South of 24 Avenue,Saturday-Sunday,4:00 AM,,,38,30,68
+152 Street South of 24 Avenue,Saturday-Sunday,5:00 AM,,,89,92,181
+152 Street South of 24 Avenue,Saturday-Sunday,6:00 AM,,,156,178,334
+152 Street South of 24 Avenue,Saturday-Sunday,7:00 AM,,,244,288,532
+152 Street South of 24 Avenue,Saturday-Sunday,8:00 AM,,,437,481,918
+152 Street South of 24 Avenue,Saturday-Sunday,9:00 AM,,,589,651,1240
+152 Street South of 24 Avenue,Saturday-Sunday,10:00 AM,,,723,784,1507
+152 Street South of 24 Avenue,Saturday-Sunday,11:00 AM,,,779,845,1624
+152 Street South of 24 Avenue,Saturday-Sunday,12:00 PM,,,808,905,1713
+152 Street South of 24 Avenue,Saturday-Sunday,1:00 PM,,,795,894,1689
+152 Street South of 24 Avenue,Saturday-Sunday,2:00 PM,,,793,886,1679
+152 Street South of 24 Avenue,Saturday-Sunday,3:00 PM,,,775,855,1630
+152 Street South of 24 Avenue,Saturday-Sunday,4:00 PM,,,704,791,1495
+152 Street South of 24 Avenue,Saturday-Sunday,5:00 PM,,,571,667,1238
+152 Street South of 24 Avenue,Saturday-Sunday,6:00 PM,,,459,538,997
+152 Street South of 24 Avenue,Saturday-Sunday,7:00 PM,,,424,444,868
+152 Street South of 24 Avenue,Saturday-Sunday,8:00 PM,,,383,346,729
+152 Street South of 24 Avenue,Saturday-Sunday,9:00 PM,,,282,267,549
+152 Street South of 24 Avenue,Saturday-Sunday,10:00 PM,,,191,188,379
+152 Street South of 24 Avenue,Saturday-Sunday,11:00 PM,,,113,106,219
+152 Street South of 70 Avenue,Monday-Friday,12:00 AM,,,88,84,172
+152 Street South of 70 Avenue,Monday-Friday,1:00 AM,,,49,46,95
+152 Street South of 70 Avenue,Monday-Friday,2:00 AM,,,33,38,71
+152 Street South of 70 Avenue,Monday-Friday,3:00 AM,,,37,45,82
+152 Street South of 70 Avenue,Monday-Friday,4:00 AM,,,74,97,171
+152 Street South of 70 Avenue,Monday-Friday,5:00 AM,,,254,365,619
+152 Street South of 70 Avenue,Monday-Friday,6:00 AM,,,582,795,1377
+152 Street South of 70 Avenue,Monday-Friday,7:00 AM,,,981,1095,2076
+152 Street South of 70 Avenue,Monday-Friday,8:00 AM,,,901,997,1898
+152 Street South of 70 Avenue,Monday-Friday,9:00 AM,,,678,771,1449
+152 Street South of 70 Avenue,Monday-Friday,10:00 AM,,,707,756,1463
+152 Street South of 70 Avenue,Monday-Friday,11:00 AM,,,755,792,1547
+152 Street South of 70 Avenue,Monday-Friday,12:00 PM,,,772,822,1594
+152 Street South of 70 Avenue,Monday-Friday,1:00 PM,,,855,898,1753
+152 Street South of 70 Avenue,Monday-Friday,2:00 PM,,,1050,1101,2151
+152 Street South of 70 Avenue,Monday-Friday,3:00 PM,,,1115,1078,2193
+152 Street South of 70 Avenue,Monday-Friday,4:00 PM,,,1121,1114,2235
+152 Street South of 70 Avenue,Monday-Friday,5:00 PM,,,1055,1053,2108
+152 Street South of 70 Avenue,Monday-Friday,6:00 PM,,,867,939,1806
+152 Street South of 70 Avenue,Monday-Friday,7:00 PM,,,718,715,1433
+152 Street South of 70 Avenue,Monday-Friday,8:00 PM,,,687,565,1252
+152 Street South of 70 Avenue,Monday-Friday,9:00 PM,,,551,465,1016
+152 Street South of 70 Avenue,Monday-Friday,10:00 PM,,,378,350,728
+152 Street South of 70 Avenue,Monday-Friday,11:00 PM,,,227,185,412
+152 Street South of 70 Avenue,Saturday-Sunday,12:00 AM,,,178,171,349
+152 Street South of 70 Avenue,Saturday-Sunday,1:00 AM,,,109,108,217
+152 Street South of 70 Avenue,Saturday-Sunday,2:00 AM,,,70,73,143
+152 Street South of 70 Avenue,Saturday-Sunday,3:00 AM,,,51,61,112
+152 Street South of 70 Avenue,Saturday-Sunday,4:00 AM,,,57,61,118
+152 Street South of 70 Avenue,Saturday-Sunday,5:00 AM,,,89,144,233
+152 Street South of 70 Avenue,Saturday-Sunday,6:00 AM,,,174,288,462
+152 Street South of 70 Avenue,Saturday-Sunday,7:00 AM,,,282,375,657
+152 Street South of 70 Avenue,Saturday-Sunday,8:00 AM,,,419,605,1024
+152 Street South of 70 Avenue,Saturday-Sunday,9:00 AM,,,582,770,1352
+152 Street South of 70 Avenue,Saturday-Sunday,10:00 AM,,,698,869,1567
+152 Street South of 70 Avenue,Saturday-Sunday,11:00 AM,,,801,892,1693
+152 Street South of 70 Avenue,Saturday-Sunday,12:00 PM,,,940,921,1861
+152 Street South of 70 Avenue,Saturday-Sunday,1:00 PM,,,894,938,1832
+152 Street South of 70 Avenue,Saturday-Sunday,2:00 PM,,,881,951,1832
+152 Street South of 70 Avenue,Saturday-Sunday,3:00 PM,,,919,905,1824
+152 Street South of 70 Avenue,Saturday-Sunday,4:00 PM,,,904,924,1828
+152 Street South of 70 Avenue,Saturday-Sunday,5:00 PM,,,858,883,1741
+152 Street South of 70 Avenue,Saturday-Sunday,6:00 PM,,,773,802,1575
+152 Street South of 70 Avenue,Saturday-Sunday,7:00 PM,,,645,629,1274
+152 Street South of 70 Avenue,Saturday-Sunday,8:00 PM,,,642,510,1152
+152 Street South of 70 Avenue,Saturday-Sunday,9:00 PM,,,549,439,988
+152 Street South of 70 Avenue,Saturday-Sunday,10:00 PM,,,382,342,724
+152 Street South of 70 Avenue,Saturday-Sunday,11:00 PM,,,263,220,483
+152 Street South of 99 Avenue,Monday-Friday,12:00 AM,,,108,168,276
+152 Street South of 99 Avenue,Monday-Friday,1:00 AM,,,66,88,154
+152 Street South of 99 Avenue,Monday-Friday,2:00 AM,,,49,63,112
+152 Street South of 99 Avenue,Monday-Friday,3:00 AM,,,43,49,92
+152 Street South of 99 Avenue,Monday-Friday,4:00 AM,,,88,55,143
+152 Street South of 99 Avenue,Monday-Friday,5:00 AM,,,312,162,474
+152 Street South of 99 Avenue,Monday-Friday,6:00 AM,,,664,466,1130
+152 Street South of 99 Avenue,Monday-Friday,7:00 AM,,,920,755,1675
+152 Street South of 99 Avenue,Monday-Friday,8:00 AM,,,1246,937,2183
+152 Street South of 99 Avenue,Monday-Friday,9:00 AM,,,943,772,1715
+152 Street South of 99 Avenue,Monday-Friday,10:00 AM,,,933,801,1734
+152 Street South of 99 Avenue,Monday-Friday,11:00 AM,,,1015,930,1945
+152 Street South of 99 Avenue,Monday-Friday,12:00 PM,,,1034,1030,2064
+152 Street South of 99 Avenue,Monday-Friday,1:00 PM,,,991,1099,2090
+152 Street South of 99 Avenue,Monday-Friday,2:00 PM,,,1083,1251,2334
+152 Street South of 99 Avenue,Monday-Friday,3:00 PM,,,1148,1387,2535
+152 Street South of 99 Avenue,Monday-Friday,4:00 PM,,,1183,1508,2691
+152 Street South of 99 Avenue,Monday-Friday,5:00 PM,,,1105,1486,2591
+152 Street South of 99 Avenue,Monday-Friday,6:00 PM,,,1007,1212,2219
+152 Street South of 99 Avenue,Monday-Friday,7:00 PM,,,791,933,1724
+152 Street South of 99 Avenue,Monday-Friday,8:00 PM,,,647,781,1428
+152 Street South of 99 Avenue,Monday-Friday,9:00 PM,,,550,727,1277
+152 Street South of 99 Avenue,Monday-Friday,10:00 PM,,,389,504,893
+152 Street South of 99 Avenue,Monday-Friday,11:00 PM,,,245,331,576
+152 Street South of 99 Avenue,Saturday-Sunday,12:00 AM,,,202,291,493
+152 Street South of 99 Avenue,Saturday-Sunday,1:00 AM,,,124,168,292
+152 Street South of 99 Avenue,Saturday-Sunday,2:00 AM,,,87,115,202
+152 Street South of 99 Avenue,Saturday-Sunday,3:00 AM,,,61,85,146
+152 Street South of 99 Avenue,Saturday-Sunday,4:00 AM,,,60,61,121
+152 Street South of 99 Avenue,Saturday-Sunday,5:00 AM,,,105,81,186
+152 Street South of 99 Avenue,Saturday-Sunday,6:00 AM,,,189,166,355
+152 Street South of 99 Avenue,Saturday-Sunday,7:00 AM,,,308,262,570
+152 Street South of 99 Avenue,Saturday-Sunday,8:00 AM,,,469,420,889
+152 Street South of 99 Avenue,Saturday-Sunday,9:00 AM,,,727,607,1334
+152 Street South of 99 Avenue,Saturday-Sunday,10:00 AM,,,923,770,1693
+152 Street South of 99 Avenue,Saturday-Sunday,11:00 AM,,,1026,898,1924
+152 Street South of 99 Avenue,Saturday-Sunday,12:00 PM,,,1128,1040,2168
+152 Street South of 99 Avenue,Saturday-Sunday,1:00 PM,,,1130,1151,2281
+152 Street South of 99 Avenue,Saturday-Sunday,2:00 PM,,,1099,1178,2277
+152 Street South of 99 Avenue,Saturday-Sunday,3:00 PM,,,1081,1193,2274
+152 Street South of 99 Avenue,Saturday-Sunday,4:00 PM,,,1054,1156,2210
+152 Street South of 99 Avenue,Saturday-Sunday,5:00 PM,,,935,1148,2083
+152 Street South of 99 Avenue,Saturday-Sunday,6:00 PM,,,851,1032,1883
+152 Street South of 99 Avenue,Saturday-Sunday,7:00 PM,,,698,732,1430
+152 Street South of 99 Avenue,Saturday-Sunday,8:00 PM,,,597,638,1235
+152 Street South of 99 Avenue,Saturday-Sunday,9:00 PM,,,560,577,1137
+152 Street South of 99 Avenue,Saturday-Sunday,10:00 PM,,,429,461,890
+152 Street South of 99 Avenue,Saturday-Sunday,11:00 PM,,,291,338,629
+Fraser Highway East of 188 Street,Monday-Friday,12:00 AM,55,75,,,130
+Fraser Highway East of 188 Street,Monday-Friday,1:00 AM,32,50,,,82
+Fraser Highway East of 188 Street,Monday-Friday,2:00 AM,25,28,,,53
+Fraser Highway East of 188 Street,Monday-Friday,3:00 AM,39,33,,,72
+Fraser Highway East of 188 Street,Monday-Friday,4:00 AM,105,90,,,195
+Fraser Highway East of 188 Street,Monday-Friday,5:00 AM,213,323,,,536
+Fraser Highway East of 188 Street,Monday-Friday,6:00 AM,447,598,,,1045
+Fraser Highway East of 188 Street,Monday-Friday,7:00 AM,649,695,,,1344
+Fraser Highway East of 188 Street,Monday-Friday,8:00 AM,790,596,,,1386
+Fraser Highway East of 188 Street,Monday-Friday,9:00 AM,699,557,,,1256
+Fraser Highway East of 188 Street,Monday-Friday,10:00 AM,702,652,,,1354
+Fraser Highway East of 188 Street,Monday-Friday,11:00 AM,739,746,,,1485
+Fraser Highway East of 188 Street,Monday-Friday,12:00 PM,736,811,,,1547
+Fraser Highway East of 188 Street,Monday-Friday,1:00 PM,711,885,,,1596
+Fraser Highway East of 188 Street,Monday-Friday,2:00 PM,792,970,,,1762
+Fraser Highway East of 188 Street,Monday-Friday,3:00 PM,883,1056,,,1939
+Fraser Highway East of 188 Street,Monday-Friday,4:00 PM,886,1122,,,2008
+Fraser Highway East of 188 Street,Monday-Friday,5:00 PM,797,1051,,,1848
+Fraser Highway East of 188 Street,Monday-Friday,6:00 PM,652,802,,,1454
+Fraser Highway East of 188 Street,Monday-Friday,7:00 PM,498,675,,,1173
+Fraser Highway East of 188 Street,Monday-Friday,8:00 PM,358,612,,,970
+Fraser Highway East of 188 Street,Monday-Friday,9:00 PM,289,492,,,781
+Fraser Highway East of 188 Street,Monday-Friday,10:00 PM,216,309,,,525
+Fraser Highway East of 188 Street,Monday-Friday,11:00 PM,123,180,,,303
+Fraser Highway East of 188 Street,Saturday-Sunday,12:00 AM,108,141,,,249
+Fraser Highway East of 188 Street,Saturday-Sunday,1:00 AM,67,109,,,176
+Fraser Highway East of 188 Street,Saturday-Sunday,2:00 AM,50,65,,,115
+Fraser Highway East of 188 Street,Saturday-Sunday,3:00 AM,39,44,,,83
+Fraser Highway East of 188 Street,Saturday-Sunday,4:00 AM,38,37,,,75
+Fraser Highway East of 188 Street,Saturday-Sunday,5:00 AM,85,77,,,162
+Fraser Highway East of 188 Street,Saturday-Sunday,6:00 AM,179,149,,,328
+Fraser Highway East of 188 Street,Saturday-Sunday,7:00 AM,265,219,,,484
+Fraser Highway East of 188 Street,Saturday-Sunday,8:00 AM,464,307,,,771
+Fraser Highway East of 188 Street,Saturday-Sunday,9:00 AM,659,471,,,1130
+Fraser Highway East of 188 Street,Saturday-Sunday,10:00 AM,805,646,,,1451
+Fraser Highway East of 188 Street,Saturday-Sunday,11:00 AM,820,773,,,1593
+Fraser Highway East of 188 Street,Saturday-Sunday,12:00 PM,855,892,,,1747
+Fraser Highway East of 188 Street,Saturday-Sunday,1:00 PM,825,926,,,1751
+Fraser Highway East of 188 Street,Saturday-Sunday,2:00 PM,787,963,,,1750
+Fraser Highway East of 188 Street,Saturday-Sunday,3:00 PM,745,994,,,1739
+Fraser Highway East of 188 Street,Saturday-Sunday,4:00 PM,677,973,,,1650
+Fraser Highway East of 188 Street,Saturday-Sunday,5:00 PM,566,886,,,1452
+Fraser Highway East of 188 Street,Saturday-Sunday,6:00 PM,461,695,,,1156
+Fraser Highway East of 188 Street,Saturday-Sunday,7:00 PM,384,494,,,878
+Fraser Highway East of 188 Street,Saturday-Sunday,8:00 PM,303,443,,,746
+Fraser Highway East of 188 Street,Saturday-Sunday,9:00 PM,251,424,,,675
+Fraser Highway East of 188 Street,Saturday-Sunday,10:00 PM,209,284,,,493
+Fraser Highway East of 188 Street,Saturday-Sunday,11:00 PM,128,184,,,312
+King George Boulevard North of 34 Avenue,Monday-Friday,12:00 AM,,,34,44,78
+King George Boulevard North of 34 Avenue,Monday-Friday,1:00 AM,,,23,31,54
+King George Boulevard North of 34 Avenue,Monday-Friday,2:00 AM,,,18,19,37
+King George Boulevard North of 34 Avenue,Monday-Friday,3:00 AM,,,16,16,32
+King George Boulevard North of 34 Avenue,Monday-Friday,4:00 AM,,,46,35,81
+King George Boulevard North of 34 Avenue,Monday-Friday,5:00 AM,,,162,98,260
+King George Boulevard North of 34 Avenue,Monday-Friday,6:00 AM,,,408,267,675
+King George Boulevard North of 34 Avenue,Monday-Friday,7:00 AM,,,538,384,922
+King George Boulevard North of 34 Avenue,Monday-Friday,8:00 AM,,,477,487,964
+King George Boulevard North of 34 Avenue,Monday-Friday,9:00 AM,,,436,471,907
+King George Boulevard North of 34 Avenue,Monday-Friday,10:00 AM,,,457,493,950
+King George Boulevard North of 34 Avenue,Monday-Friday,11:00 AM,,,486,542,1028
+King George Boulevard North of 34 Avenue,Monday-Friday,12:00 PM,,,500,569,1069
+King George Boulevard North of 34 Avenue,Monday-Friday,1:00 PM,,,509,570,1079
+King George Boulevard North of 34 Avenue,Monday-Friday,2:00 PM,,,535,639,1174
+King George Boulevard North of 34 Avenue,Monday-Friday,3:00 PM,,,578,642,1220
+King George Boulevard North of 34 Avenue,Monday-Friday,4:00 PM,,,555,678,1233
+King George Boulevard North of 34 Avenue,Monday-Friday,5:00 PM,,,562,684,1246
+King George Boulevard North of 34 Avenue,Monday-Friday,6:00 PM,,,440,566,1006
+King George Boulevard North of 34 Avenue,Monday-Friday,7:00 PM,,,370,398,768
+King George Boulevard North of 34 Avenue,Monday-Friday,8:00 PM,,,335,315,650
+King George Boulevard North of 34 Avenue,Monday-Friday,9:00 PM,,,278,244,522
+King George Boulevard North of 34 Avenue,Monday-Friday,10:00 PM,,,192,194,386
+King George Boulevard North of 34 Avenue,Monday-Friday,11:00 PM,,,111,98,209
+King George Boulevard North of 34 Avenue,Saturday-Sunday,12:00 AM,,,76,87,163
+King George Boulevard North of 34 Avenue,Saturday-Sunday,1:00 AM,,,49,54,103
+King George Boulevard North of 34 Avenue,Saturday-Sunday,2:00 AM,,,39,35,74
+King George Boulevard North of 34 Avenue,Saturday-Sunday,3:00 AM,,,23,24,47
+King George Boulevard North of 34 Avenue,Saturday-Sunday,4:00 AM,,,26,26,52
+King George Boulevard North of 34 Avenue,Saturday-Sunday,5:00 AM,,,44,51,95
+King George Boulevard North of 34 Avenue,Saturday-Sunday,6:00 AM,,,101,169,270
+King George Boulevard North of 34 Avenue,Saturday-Sunday,7:00 AM,,,150,176,326
+King George Boulevard North of 34 Avenue,Saturday-Sunday,8:00 AM,,,225,323,548
+King George Boulevard North of 34 Avenue,Saturday-Sunday,9:00 AM,,,326,399,725
+King George Boulevard North of 34 Avenue,Saturday-Sunday,10:00 AM,,,432,505,937
+King George Boulevard North of 34 Avenue,Saturday-Sunday,11:00 AM,,,469,569,1038
+King George Boulevard North of 34 Avenue,Saturday-Sunday,12:00 PM,,,520,597,1117
+King George Boulevard North of 34 Avenue,Saturday-Sunday,1:00 PM,,,545,637,1182
+King George Boulevard North of 34 Avenue,Saturday-Sunday,2:00 PM,,,562,647,1209
+King George Boulevard North of 34 Avenue,Saturday-Sunday,3:00 PM,,,548,624,1172
+King George Boulevard North of 34 Avenue,Saturday-Sunday,4:00 PM,,,547,593,1140
+King George Boulevard North of 34 Avenue,Saturday-Sunday,5:00 PM,,,498,519,1017
+King George Boulevard North of 34 Avenue,Saturday-Sunday,6:00 PM,,,411,406,817
+King George Boulevard North of 34 Avenue,Saturday-Sunday,7:00 PM,,,313,321,634
+King George Boulevard North of 34 Avenue,Saturday-Sunday,8:00 PM,,,299,276,575
+King George Boulevard North of 34 Avenue,Saturday-Sunday,9:00 PM,,,256,223,479
+King George Boulevard North of 34 Avenue,Saturday-Sunday,10:00 PM,,,183,183,366
+King George Boulevard North of 34 Avenue,Saturday-Sunday,11:00 PM,,,117,98,215
+King George Boulevard South of 72 Avenue,Monday-Friday,12:00 AM,,,118,154,272
+King George Boulevard South of 72 Avenue,Monday-Friday,1:00 AM,,,78,96,174
+King George Boulevard South of 72 Avenue,Monday-Friday,2:00 AM,,,66,74,140
+King George Boulevard South of 72 Avenue,Monday-Friday,3:00 AM,,,70,68,138
+King George Boulevard South of 72 Avenue,Monday-Friday,4:00 AM,,,146,107,253
+King George Boulevard South of 72 Avenue,Monday-Friday,5:00 AM,,,356,276,632
+King George Boulevard South of 72 Avenue,Monday-Friday,6:00 AM,,,779,571,1350
+King George Boulevard South of 72 Avenue,Monday-Friday,7:00 AM,,,1167,841,2008
+King George Boulevard South of 72 Avenue,Monday-Friday,8:00 AM,,,1225,964,2189
+King George Boulevard South of 72 Avenue,Monday-Friday,9:00 AM,,,1010,840,1850
+King George Boulevard South of 72 Avenue,Monday-Friday,10:00 AM,,,1033,1001,2034
+King George Boulevard South of 72 Avenue,Monday-Friday,11:00 AM,,,1107,1151,2258
+King George Boulevard South of 72 Avenue,Monday-Friday,12:00 PM,,,1097,1207,2304
+King George Boulevard South of 72 Avenue,Monday-Friday,1:00 PM,,,1106,1294,2400
+King George Boulevard South of 72 Avenue,Monday-Friday,2:00 PM,,,1112,1405,2517
+King George Boulevard South of 72 Avenue,Monday-Friday,3:00 PM,,,1187,1397,2584
+King George Boulevard South of 72 Avenue,Monday-Friday,4:00 PM,,,1155,1482,2637
+King George Boulevard South of 72 Avenue,Monday-Friday,5:00 PM,,,1138,1410,2548
+King George Boulevard South of 72 Avenue,Monday-Friday,6:00 PM,,,990,1172,2162
+King George Boulevard South of 72 Avenue,Monday-Friday,7:00 PM,,,798,950,1748
+King George Boulevard South of 72 Avenue,Monday-Friday,8:00 PM,,,630,800,1430
+King George Boulevard South of 72 Avenue,Monday-Friday,9:00 PM,,,525,642,1167
+King George Boulevard South of 72 Avenue,Monday-Friday,10:00 PM,,,386,470,856
+King George Boulevard South of 72 Avenue,Monday-Friday,11:00 PM,,,240,278,518
+King George Boulevard South of 72 Avenue,Saturday-Sunday,12:00 AM,,,196,226,422
+King George Boulevard South of 72 Avenue,Saturday-Sunday,1:00 AM,,,137,154,291
+King George Boulevard South of 72 Avenue,Saturday-Sunday,2:00 AM,,,106,109,215
+King George Boulevard South of 72 Avenue,Saturday-Sunday,3:00 AM,,,75,71,146
+King George Boulevard South of 72 Avenue,Saturday-Sunday,4:00 AM,,,87,84,171
+King George Boulevard South of 72 Avenue,Saturday-Sunday,5:00 AM,,,131,147,278
+King George Boulevard South of 72 Avenue,Saturday-Sunday,6:00 AM,,,258,260,518
+King George Boulevard South of 72 Avenue,Saturday-Sunday,7:00 AM,,,348,351,699
+King George Boulevard South of 72 Avenue,Saturday-Sunday,8:00 AM,,,532,479,1011
+King George Boulevard South of 72 Avenue,Saturday-Sunday,9:00 AM,,,735,600,1335
+King George Boulevard South of 72 Avenue,Saturday-Sunday,10:00 AM,,,882,833,1715
+King George Boulevard South of 72 Avenue,Saturday-Sunday,11:00 AM,,,959,943,1902
+King George Boulevard South of 72 Avenue,Saturday-Sunday,12:00 PM,,,997,1089,2086
+King George Boulevard South of 72 Avenue,Saturday-Sunday,1:00 PM,,,1011,1149,2160
+King George Boulevard South of 72 Avenue,Saturday-Sunday,2:00 PM,,,1027,1154,2181
+King George Boulevard South of 72 Avenue,Saturday-Sunday,3:00 PM,,,1004,1142,2146
+King George Boulevard South of 72 Avenue,Saturday-Sunday,4:00 PM,,,968,1090,2058
+King George Boulevard South of 72 Avenue,Saturday-Sunday,5:00 PM,,,899,994,1893
+King George Boulevard South of 72 Avenue,Saturday-Sunday,6:00 PM,,,810,831,1641
+King George Boulevard South of 72 Avenue,Saturday-Sunday,7:00 PM,,,656,675,1331
+King George Boulevard South of 72 Avenue,Saturday-Sunday,8:00 PM,,,583,556,1139
+King George Boulevard South of 72 Avenue,Saturday-Sunday,9:00 PM,,,503,500,1003
+King George Boulevard South of 72 Avenue,Saturday-Sunday,10:00 PM,,,381,408,789
+King George Boulevard South of 72 Avenue,Saturday-Sunday,11:00 PM,,,267,266,533
+Patullo Bridge,Monday-Friday,12:00 AM,,,462,295,757
+Patullo Bridge,Monday-Friday,1:00 AM,,,269,177,446
+Patullo Bridge,Monday-Friday,2:00 AM,,,202,127,329
+Patullo Bridge,Monday-Friday,3:00 AM,,,147,148,295
+Patullo Bridge,Monday-Friday,4:00 AM,,,209,382,591
+Patullo Bridge,Monday-Friday,5:00 AM,,,551,1576,2127
+Patullo Bridge,Monday-Friday,6:00 AM,,,1405,2826,4231
+Patullo Bridge,Monday-Friday,7:00 AM,,,1988,2695,4683
+Patullo Bridge,Monday-Friday,8:00 AM,,,1842,2594,4436
+Patullo Bridge,Monday-Friday,9:00 AM,,,1551,2163,3714
+Patullo Bridge,Monday-Friday,10:00 AM,,,1516,1917,3433
+Patullo Bridge,Monday-Friday,11:00 AM,,,1648,1849,3497
+Patullo Bridge,Monday-Friday,12:00 PM,,,1827,1893,3720
+Patullo Bridge,Monday-Friday,1:00 PM,,,1982,1929,3911
+Patullo Bridge,Monday-Friday,2:00 PM,,,2289,2042,4331
+Patullo Bridge,Monday-Friday,3:00 PM,,,2727,2438,5165
+Patullo Bridge,Monday-Friday,4:00 PM,,,2831,2507,5338
+Patullo Bridge,Monday-Friday,5:00 PM,,,2832,2375,5207
+Patullo Bridge,Monday-Friday,6:00 PM,,,2531,1909,4440
+Patullo Bridge,Monday-Friday,7:00 PM,,,1862,1403,3265
+Patullo Bridge,Monday-Friday,8:00 PM,,,1435,1089,2524
+Patullo Bridge,Monday-Friday,9:00 PM,,,1410,1104,2514
+Patullo Bridge,Monday-Friday,10:00 PM,,,1164,936,2100
+Patullo Bridge,Monday-Friday,11:00 PM,,,928,587,1515
+Patullo Bridge,Saturday-Sunday,12:00 AM,,,709,485,1194
+Patullo Bridge,Saturday-Sunday,1:00 AM,,,463,300,763
+Patullo Bridge,Saturday-Sunday,2:00 AM,,,346,216,562
+Patullo Bridge,Saturday-Sunday,3:00 AM,,,260,157,417
+Patullo Bridge,Saturday-Sunday,4:00 AM,,,239,200,439
+Patullo Bridge,Saturday-Sunday,5:00 AM,,,263,441,704
+Patullo Bridge,Saturday-Sunday,6:00 AM,,,476,791,1267
+Patullo Bridge,Saturday-Sunday,7:00 AM,,,705,830,1535
+Patullo Bridge,Saturday-Sunday,8:00 AM,,,801,1157,1958
+Patullo Bridge,Saturday-Sunday,9:00 AM,,,1053,1535,2588
+Patullo Bridge,Saturday-Sunday,10:00 AM,,,1312,1697,3009
+Patullo Bridge,Saturday-Sunday,11:00 AM,,,1492,1758,3250
+Patullo Bridge,Saturday-Sunday,12:00 PM,,,1662,1875,3537
+Patullo Bridge,Saturday-Sunday,1:00 PM,,,1844,1971,3815
+Patullo Bridge,Saturday-Sunday,2:00 PM,,,1866,2007,3873
+Patullo Bridge,Saturday-Sunday,3:00 PM,,,1986,1873,3859
+Patullo Bridge,Saturday-Sunday,4:00 PM,,,2047,1821,3868
+Patullo Bridge,Saturday-Sunday,5:00 PM,,,1910,1772,3682
+Patullo Bridge,Saturday-Sunday,6:00 PM,,,1778,1562,3340
+Patullo Bridge,Saturday-Sunday,7:00 PM,,,1494,1304,2798
+Patullo Bridge,Saturday-Sunday,8:00 PM,,,1238,1100,2338
+Patullo Bridge,Saturday-Sunday,9:00 PM,,,1161,1039,2200
+Patullo Bridge,Saturday-Sunday,10:00 PM,,,1078,996,2074
+Patullo Bridge,Saturday-Sunday,11:00 PM,,,877,660,1537
+Scott Road North of 72 Avenue,Monday-Friday,12:00 AM,,,106,88,194
+Scott Road North of 72 Avenue,Monday-Friday,1:00 AM,,,57,51,108
+Scott Road North of 72 Avenue,Monday-Friday,2:00 AM,,,38,40,78
+Scott Road North of 72 Avenue,Monday-Friday,3:00 AM,,,39,47,86
+Scott Road North of 72 Avenue,Monday-Friday,4:00 AM,,,75,73,148
+Scott Road North of 72 Avenue,Monday-Friday,5:00 AM,,,219,230,449
+Scott Road North of 72 Avenue,Monday-Friday,6:00 AM,,,406,504,910
+Scott Road North of 72 Avenue,Monday-Friday,7:00 AM,,,804,739,1543
+Scott Road North of 72 Avenue,Monday-Friday,8:00 AM,,,978,818,1796
+Scott Road North of 72 Avenue,Monday-Friday,9:00 AM,,,797,770,1567
+Scott Road North of 72 Avenue,Monday-Friday,10:00 AM,,,885,854,1739
+Scott Road North of 72 Avenue,Monday-Friday,11:00 AM,,,976,978,1954
+Scott Road North of 72 Avenue,Monday-Friday,12:00 PM,,,1018,992,2010
+Scott Road North of 72 Avenue,Monday-Friday,1:00 PM,,,990,999,1989
+Scott Road North of 72 Avenue,Monday-Friday,2:00 PM,,,1059,1063,2122
+Scott Road North of 72 Avenue,Monday-Friday,3:00 PM,,,1162,1104,2266
+Scott Road North of 72 Avenue,Monday-Friday,4:00 PM,,,1150,1100,2250
+Scott Road North of 72 Avenue,Monday-Friday,5:00 PM,,,1094,1077,2171
+Scott Road North of 72 Avenue,Monday-Friday,6:00 PM,,,957,1000,1957
+Scott Road North of 72 Avenue,Monday-Friday,7:00 PM,,,801,831,1632
+Scott Road North of 72 Avenue,Monday-Friday,8:00 PM,,,655,679,1334
+Scott Road North of 72 Avenue,Monday-Friday,9:00 PM,,,511,520,1031
+Scott Road North of 72 Avenue,Monday-Friday,10:00 PM,,,328,335,663
+Scott Road North of 72 Avenue,Monday-Friday,11:00 PM,,,190,188,378
+Scott Road North of 72 Avenue,Saturday-Sunday,12:00 AM,,,179,143,322
+Scott Road North of 72 Avenue,Saturday-Sunday,1:00 AM,,,107,95,202
+Scott Road North of 72 Avenue,Saturday-Sunday,2:00 AM,,,70,64,134
+Scott Road North of 72 Avenue,Saturday-Sunday,3:00 AM,,,51,58,109
+Scott Road North of 72 Avenue,Saturday-Sunday,4:00 AM,,,53,54,107
+Scott Road North of 72 Avenue,Saturday-Sunday,5:00 AM,,,81,103,184
+Scott Road North of 72 Avenue,Saturday-Sunday,6:00 AM,,,143,164,307
+Scott Road North of 72 Avenue,Saturday-Sunday,7:00 AM,,,265,243,508
+Scott Road North of 72 Avenue,Saturday-Sunday,8:00 AM,,,430,417,847
+Scott Road North of 72 Avenue,Saturday-Sunday,9:00 AM,,,647,611,1258
+Scott Road North of 72 Avenue,Saturday-Sunday,10:00 AM,,,836,796,1632
+Scott Road North of 72 Avenue,Saturday-Sunday,11:00 AM,,,945,926,1871
+Scott Road North of 72 Avenue,Saturday-Sunday,12:00 PM,,,998,980,1978
+Scott Road North of 72 Avenue,Saturday-Sunday,1:00 PM,,,999,1003,2002
+Scott Road North of 72 Avenue,Saturday-Sunday,2:00 PM,,,1024,1004,2028
+Scott Road North of 72 Avenue,Saturday-Sunday,3:00 PM,,,1007,970,1977
+Scott Road North of 72 Avenue,Saturday-Sunday,4:00 PM,,,937,919,1856
+Scott Road North of 72 Avenue,Saturday-Sunday,5:00 PM,,,889,841,1730
+Scott Road North of 72 Avenue,Saturday-Sunday,6:00 PM,,,797,779,1576
+Scott Road North of 72 Avenue,Saturday-Sunday,7:00 PM,,,636,667,1303
+Scott Road North of 72 Avenue,Saturday-Sunday,8:00 PM,,,540,533,1073
+Scott Road North of 72 Avenue,Saturday-Sunday,9:00 PM,,,487,453,940
+Scott Road North of 72 Avenue,Saturday-Sunday,10:00 PM,,,338,316,654
+Scott Road North of 72 Avenue,Saturday-Sunday,11:00 PM,,,197,191,388
